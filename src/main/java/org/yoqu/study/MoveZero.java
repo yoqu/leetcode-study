@@ -23,6 +23,10 @@ public class MoveZero {
         System.out.println(Arrays.toString(nums));
     }
 
+    /**
+     * 这个办法效率比较低，但是可以移动任何数
+     * @param nums
+     */
     public void moveZeroes(int[] nums) {
         int found = 0;
         for (int i = 0; i < nums.length; i++) {
@@ -38,6 +42,24 @@ public class MoveZero {
                 found++;
                 i = -1;
             }
+        }
+    }
+
+
+    /**
+     * 高效率解决问题
+     * @param nums
+     */
+    public void moveZeroes2(int[] nums) {
+        int idx = 0;
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] != 0) {
+                nums[idx] = nums[i];
+                idx++;
+            }
+        }
+        for (int i=idx;i<nums.length;i++) {
+            nums[i] = 0;
         }
     }
 }

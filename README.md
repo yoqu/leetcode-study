@@ -13,3 +13,4 @@
 |[存在重复](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/24/)|ArrayExits.java|是|
 |[加一](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/27/)|PlusArray.java|是|
 |[移动0](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/28/)|MoveZero|是|
+|[两数之和](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/29/)|TwoSum|是|

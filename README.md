@@ -15,6 +15,7 @@
 |[加一](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/27/)|PlusArray.java|是|
 |[移动0](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/28/)|MoveZero|是|
 |[两数之和](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/1/array/29/)|TwoSum|是|
+|[反转字符串](https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/5/strings/32/)|TwoSum|是|
 
 
 
